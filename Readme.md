@@ -1,8 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Марина Арутюнова](https://up.htmlacademy.ru/htmlcss-individual/2/user/2080471).
-* Наставник: `Неизвестно`.
-
+* Наставник: [Дина Шарипова](https://htmlacademy.ru/profile/id1418957).
+* Сайт: [Мой проект Седона](https://marina-arutyunova.github.io/2080471-sedona-2/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
